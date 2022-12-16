@@ -1,0 +1,44 @@
+* {
+  margin: 0;
+  padding: 0;
+}
+
+.container {
+  width: 1000px;
+  margin: auto;
+  height: 100%;
+}
+
+.jj {
+  border: 1px solid black;
+  width: 80%;
+  height: 650px;
+  margin: 50px auto;
+  padding: 10px 5px;
+}
+
+li {
+  list-style: none;
+  background-color: rgb(251, 249, 249);
+  margin-bottom: 2px;
+}
+
+.title {
+  text-align: center;
+  margin-bottom: 10px;
+  font-size: 25px;
+}
+/* 
+
+} */
+
+/* Problem #1:
+li teqinin max uzunlugu jj qeder olmalidi
+
+Problem #2:
+span:last-child {
+  background-color: rgb(237, 235, 235);
+  width: max-content;          
+  'not working'
+  
+*/
